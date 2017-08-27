@@ -21,7 +21,7 @@ This implementation is based on the journal edition of the original paper, and g
 
 * CMake (>= 2.8)
 * GCC (>= 4.8.2)
-* Python (>= 3.4.3)
+* Python (>= 2.7.0)
     * For required packages, see `requirements.txt`
 * Boost (>= 1.58.0) built with python support
 * [Boost.NumPy](https://github.com/ndarray/Boost.NumPy)
